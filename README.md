@@ -1,2 +1,5 @@
 # Studies Python
- part of my studies about python 
+
+**Br** Parte dis meus estudos em Python.
+
+**Us** Part of my studies about python. 
